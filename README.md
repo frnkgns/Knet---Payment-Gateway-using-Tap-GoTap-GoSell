@@ -14,7 +14,7 @@
 
 ### Important: KNET Access Outside Kuwait
 
-If you are not in Kuwait (e.g., in Cabatuan, Cagayan Valley, Philippines), you will likely get a "connection failure" error when your browser tries to load the KNET payment page.
+If you are not in Kuwait (e.g., in Cagayan Valley, Philippines), you will likely get a "connection failure" error when your browser tries to load the KNET payment page.
 
 **Solution:** **Use a VPN.** Connect your computer to a VPN server located in **Kuwait** (or another Middle Eastern country) before accessing the script.
 
